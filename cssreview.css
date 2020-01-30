@@ -636,3 +636,114 @@
   }
   
 /* // Website Sizing fixes end // */ 
+
+
+
+<!--
+
+    [[[[[[[[[[[[[[[      ]]]]]]]]]]]]]]]
+    [::::::::::::::      ::::::::::::::]
+    [::::::::::::::      ::::::::::::::]
+    [::::::[[[[[[[:      :]]]]]]]::::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[     Removed Code     ]:::::]
+    [:::::[    Still Check More  ]:::::]
+    [:::::[    Pages to find     ]:::::]
+    [:::::[                      ]:::::]
+    [:::::[       faults         ]:::::]
+    [:::::[                      ]:::::]
+    [::::::[[[[[[[:      :]]]]]]]::::::]
+    [::::::::::::::      ::::::::::::::]
+    [::::::::::::::      ::::::::::::::]
+    [[[[[[[[[[[[[[[      ]]]]]]]]]]]]]]]
+
+-->
+
+/*************************************************************************** NOT SURE */
+.woocommerce table.shop_table td.product-name span {
+    font-size: 14px;
+  }
+  
+/*************************************************************************** NOT SURE */
+  .tve-woocommerce .product .product_meta {
+    color: #000000 !important;
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  
+/*************************************************************************** NOT SURE */
+  .woocommerce #exmain-content .we-navigation {
+    width: 856px;
+    height: 40px;
+    margin-bottom: 40px;
+  }
+  
+/*************************************************************************** NOT SURE */
+  .we-grid-shortcode figure.ex-modern-blog {
+    color: #fff;
+    position: relative;
+    float: left;
+    min-height: 400px;
+    overflow: hidden;
+    min-width: 100px;
+    width: 100%;
+    color: #000000;
+    text-align: left;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  }
+
+
+  
+  /*************************************************************************** NOT SURE */
+  .body.woocommerce div.product form.cart div.quantity {
+    margin-right: 10px;
+    margin-bottom: 0px;
+  }
+  
+
+ /***************************************************************************QUESTION NOT SURE */
+  tbody tr.woocommerce-cart-form__cart-item.cart_item td.product-price {
+  min-height: 20px;
+  }
+
+
+  /*Inactive cart code*/
+  /* .page-id-167 .tve_flt {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+  } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
